@@ -1,0 +1,27 @@
+{
+    "participants": [
+        {
+            "id": "6a28badff20b4",
+            "name": "ahmad",
+            "used_seconds": 0,
+            "added": 1781054175,
+            "exhausted": false
+        },
+        {
+            "id": "6a28bb1326a7e",
+            "name": "nietsra",
+            "used_seconds": 0,
+            "added": 1781054227,
+            "exhausted": false
+        },
+        {
+            "id": "6a28bb5f6888f",
+            "name": "kevin",
+            "used_seconds": 0,
+            "added": 1781054303,
+            "exhausted": false
+        }
+    ],
+    "active_id": null,
+    "session_start": null
+}
